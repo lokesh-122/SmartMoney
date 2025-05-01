@@ -16,3 +16,16 @@
 Whether you're a student trying to manage your monthly allowance or a working professional planning long-term financial goals, this app empowers you with the insights and tools to make informed financial decisions.
 
 ---
+## 🧩 Features
+
+### ✅ Core Functionalities
+- 🔐 **Secure User Authentication**
+- 💳 **Manual Entry of Income & Expenses**
+- 📊 **Interactive Visual Reports (Pie & Line Charts)**
+- 💡 **Daily Smart Saving Tips Based on Behavior**
+- 🔮 **AI-Powered Expense Forecasting (ML-based)**
+- 📈 **Investment Suggestions Based on Risk & Surplus**
+- 🔔 **Budget Alerts & Notifications**
+- 🔗 **(Optional) Bank API Integration for Real-time Sync**
+
+---
