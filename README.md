@@ -29,3 +29,15 @@ Whether you're a student trying to manage your monthly allowance or a working pr
 - 🔗 **(Optional) Bank API Integration for Real-time Sync**
 
 ---
+## 🧠 Tech Stack
+
+| Layer         | Tools Used                                                                 |
+|---------------|-----------------------------------------------------------------------------|
+| **Frontend**  | React.js, TypeScript, Tailwind CSS, Chart.js / Recharts                    |
+| **Backend**   | Node.js, Express.js, REST APIs                                             |
+| **Database**  | MongoDB (Mongoose) or PostgreSQL                                           |
+| **ML Model**  | Python + Prophet or Scikit-learn (for expense prediction)                  |
+| **Authentication** | JWT or Firebase Auth                                                   |
+| **Deployment**| Vercel (Frontend), Render / Railway (Backend), MongoDB Atlas (DB)         |
+
+---
