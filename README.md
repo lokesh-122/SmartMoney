@@ -1,43 +1,63 @@
 <p align="center">
-  <img src="https://i.postimg.cc/QtxxkTwZ/finance-banner.jpg" alt="Finance Banner" width="100%" />
+  <img src="https://i.postimg.cc/q7jFxCQc/fe7c1fcf-d91d-45ac-beca-273e4faa6184.png" alt="Space Coder Banner" width="100%" />
 </p>
 
 <h1 align="center">💰 Personal Finance Advisor</h1>
 
 <p align="center">
-  AI-powered smart money management platform that helps users track, forecast, and improve their financial wellness. 🔍📈💸
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=1000&lines=Smart+Money+Management+With+AI;Track+Spending,+Predict+Expenses,+Invest+Better;One+Platform,+Total+Financial+Wellness" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Personal Finance Advisor is an AI-powered smart money management platform designed to help users track, forecast, and improve their financial wellness. 💸  
+  Whether you're a student on a tight budget or a professional planning long-term goals, this platform empowers you with intelligent insights to take control of your finances. 📊📈
 </p>
 
 ---
-## 🚀 Project Overview
 
-**Personal Finance Advisor** is a comprehensive AI-enabled application that assists individuals in managing their money smartly and intuitively. The platform allows users to input their income and expenses, visualize where their money is going, receive real-time saving tips, predict future expenses using machine learning, and explore personalized investment recommendations.
+<h2 align="center">🚀 Project Overview</h2>
 
-Whether you're a student trying to manage your monthly allowance or a working professional planning long-term financial goals, this app empowers you with the insights and tools to make informed financial decisions.
-
----
-## 🧩 Features
-
-### ✅ Core Functionalities
-- 🔐 **Secure User Authentication**
-- 💳 **Manual Entry of Income & Expenses**
-- 📊 **Interactive Visual Reports (Pie & Line Charts)**
-- 💡 **Daily Smart Saving Tips Based on Behavior**
-- 🔮 **AI-Powered Expense Forecasting (ML-based)**
-- 📈 **Investment Suggestions Based on Risk & Surplus**
-- 🔔 **Budget Alerts & Notifications**
-- 🔗 **(Optional) Bank API Integration for Real-time Sync**
+- 🧠 **AI-Enabled Recommendations**: From saving tips to smart investments  
+- 📈 **Data Visualization**: Understand income vs. expenses via intuitive graphs  
+- 🔒 **Secure Login**: Your finances, protected  
+- 🔮 **Forecasting**: ML-based predictions for future expenses  
+- 💹 **Invest Smarter**: Risk-aware recommendations tailored to your profile  
+- 📲 **Alerts**: Budget breaches, saving milestones & more  
 
 ---
-## 🧠 Tech Stack
 
-| Layer         | Tools Used                                                                 |
-|---------------|-----------------------------------------------------------------------------|
-| **Frontend**  | React.js, TypeScript, Tailwind CSS, Chart.js / Recharts                    |
-| **Backend**   | Node.js, Express.js, REST APIs                                             |
-| **Database**  | MongoDB (Mongoose) or PostgreSQL                                           |
-| **ML Model**  | Python + Prophet or Scikit-learn (for expense prediction)                  |
-| **Authentication** | JWT or Firebase Auth                                                   |
-| **Deployment**| Vercel (Frontend), Render / Railway (Backend), MongoDB Atlas (DB)         |
+<h2 align="center">🧩 Key Features</h2>
+
+<div align="center">
+
+| Feature | Description |
+|--------|-------------|
+| 🔐 Authentication | Secure user sign-up & login |
+| 💳 Expense Entry | Manual input for detailed tracking |
+| 📊 Visual Reports | Pie & line charts for spending insights |
+| 💡 Smart Saving Tips | Daily AI-based finance tips |
+| 🔮 ML Predictions | Forecast your future monthly expenses |
+| 📈 Investment Advice | Personalized suggestions |
+| 🔔 Budget Alerts | Notifications to keep you on track |
+| 🔗 Bank Sync (Optional) | Connect real accounts for real-time updates |
+
+</div>
+
+---
+
+<h2 align="center">🧠 Tech Stack</h2>
+
+<div align="center">
+
+| Layer       | Tools Used |
+|-------------|------------|
+| 🖥️ Frontend | React.js, TypeScript, Tailwind CSS, Chart.js / Recharts |
+| ⚙️ Backend  | Node.js, Express.js, REST API |
+| 🛢️ Database | MongoDB (Mongoose) / PostgreSQL |
+| 🤖 ML Model | Python + Prophet / Scikit-learn |
+| 🔐 Auth     | Firebase Auth / JWT |
+| ☁️ Deploy   | Vercel (Frontend), Render / Railway (Backend), MongoDB Atlas |
+
+</div>
 
 ---
