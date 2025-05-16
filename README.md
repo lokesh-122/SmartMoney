@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/q7jFxCQc/fe7c1fcf-d91d-45ac-beca-273e4faa6184.png" alt="Space Coder Banner" width="100%" />
+  
 </p>
 
 <h1 align="center">💰 Personal Finance Advisor</h1>
